@@ -1,35 +1,17 @@
 # Core Python packages
-requests
 python-dotenv
 
 # Azure SDK packages
 azure-identity
-azure-storage-blob
-azure-keyvault-secrets
-azure-cosmos
-azure-functions
 azure-mgmt-compute
 azure-mgmt-network
 azure-mgmt-storage
 azure-mgmt-resource 
 msgraph-core
+msgraph-sdk
 
 # Textual TUI framework
 textual
 rich
 
-# Data science and utilities
-pandas
-numpy
-requests
-scikit-plot
-pandas-profiling
-scikit-learn
-
-# Development tools
-pytest
-black
-flake8
-isort
-pylint
 
