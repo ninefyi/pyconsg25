@@ -3,11 +3,6 @@ python-dotenv
 
 # Azure SDK packages
 azure-identity
-azure-mgmt-compute
-azure-mgmt-network
-azure-mgmt-storage
-azure-mgmt-resource 
-msgraph-core
 msgraph-sdk
 
 # Textual TUI framework
